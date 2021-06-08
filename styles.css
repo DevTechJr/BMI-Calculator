@@ -1,0 +1,35 @@
+#heading {
+    font-family: 'Baloo Tammudu 2', cursive;
+}
+
+
+.bodybox {
+    background-color: #F5A21C;
+    height: 1000px;
+    width: auto;
+   position: relative;
+}
+
+ .container {
+    background-color: #030F4F;
+    height: 80%;
+    width:auto;
+  
+    left: 17.5em;
+    top: 5em;
+} 
+
+.headingbox {
+    color: aliceblue;
+position:absolute;
+    top: 3em;
+    left: 42.5em;
+    text-align: center;
+}
+
+.headingbox:hover{
+    color: #F5A21C;
+    text-shadow: 0 1px;
+    font-weight: bold;
+}
+
